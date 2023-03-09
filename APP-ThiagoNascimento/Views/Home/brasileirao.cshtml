@@ -1,0 +1,22 @@
+﻿
+@model List<tabelaBrasileiraoModel>
+
+<h1>Brasileirão 2021</h1>
+
+<table class="table table-success table-striped">
+        <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Pontos</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var times in Model)
+        {
+                <tr>
+                    <td>@times.Nome</td>
+                    <td>@times.Pontos</td>
+                </tr>
+        }
+    </tbody>
+</table>

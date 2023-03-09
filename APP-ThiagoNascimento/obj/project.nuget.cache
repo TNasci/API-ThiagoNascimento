@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0neaL6rDteWdQD7gKnOdPe2d61NK5pwg382nyV/9CDCIIzcciGO2Gs7XVd7G22q2TCztBGx5BstHkqF/myV6hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Teste\\API-ThiagoNascimento\\APP-ThiagoNascimento\\APP-ThiagoNascimento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

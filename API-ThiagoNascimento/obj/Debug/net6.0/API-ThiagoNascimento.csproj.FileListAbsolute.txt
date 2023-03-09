@@ -1,0 +1,78 @@
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Data\db\tabela.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.exe
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.deps.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.API-ThiagoNascimento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.build.API-ThiagoNascimento.props
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API-ThiagoNascimento.props
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API-ThiagoNascimento.props
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\scopedcss\bundle\API-ThiagoNascimento.styles.css
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.csproj.CopyComplete
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\refint\API-ThiagoNascimento.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\ref\API-ThiagoNascimento.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\appsettings.Development.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Data\db\tabela.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\appsettings.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.exe
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.deps.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.runtimeconfig.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\API-ThiagoNascimento.pdb
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Humanizer.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.csproj.AssemblyReference.cache
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.AssemblyInfoInputs.cache
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.AssemblyInfo.cs
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.csproj.CoreCompileInputs.cache
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.MvcApplicationPartsAssemblyInfo.cs
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.MvcApplicationPartsAssemblyInfo.cache
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.API-ThiagoNascimento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.build.API-ThiagoNascimento.props
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API-ThiagoNascimento.props
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API-ThiagoNascimento.props
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets.build.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\staticwebassets.development.json
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\scopedcss\bundle\API-ThiagoNascimento.styles.css
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.csproj.CopyComplete
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\refint\API-ThiagoNascimento.dll
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.pdb
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\API-ThiagoNascimento.genruntimeconfig.cache
+C:\Teste\API-ThiagoNascimento\API-ThiagoNascimento\obj\Debug\net6.0\ref\API-ThiagoNascimento.dll
